@@ -73,7 +73,7 @@ The url leads to our checkout page which shows the `remarks`, `amount` and `amou
 url: the url to which user should be redirected
 - Page updates to show checkout status
 
-### 5. User closes the checkout page
+### 5. User is redirected to `return_url`
 
 ### 6. Merchant enquires the checkout status
 Checkout status can be enquired by calling the `/checkout/api/enquire` endpoint.

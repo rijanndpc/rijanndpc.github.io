@@ -101,3 +101,5 @@ curl \
 ## Notes
 - User can choose to cancel the checkout before or after they log in
 - Checkout expires after 15 minutes
+
+For any queries please contact us at [itd@ndpc.com.np](mailto://itd@ndpc.com.np).
